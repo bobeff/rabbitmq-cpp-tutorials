@@ -1,0 +1,5 @@
+[requires]
+SimpleAmqpClient/2.4.0@igsoft/stable
+
+[generators]
+cmake_multi
